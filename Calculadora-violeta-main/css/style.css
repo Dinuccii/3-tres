@@ -1,4 +1,5 @@
 *{
+    
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -7,9 +8,10 @@
 }
 
 body{
+    background-image: url(https://th.bing.com/th/id/OIP.v4DZeVlhKn7DL6dGu2UmDAHaE8?w=268&h=180&c=7&r=0&o=5&pid=1.7);
     text-align: center;
-    background-color: bisque;
-    color: black;
+    background-color: rgb(45, 47, 170);
+    color: rgb(255, 255, 255);
 }
 
 li{
@@ -24,8 +26,8 @@ li{
 }
 
 #calculadora{
-    width: 234px;
-    height: 230px;
+    width: 510px;
+    height: 150px;
     margin: 0 auto;
     padding: 2px;
     background-color: #6b6e6c;
@@ -46,7 +48,7 @@ li{
 
 .key li{
     width: 50px;
-    height: 30px;
+    height: 40px;
     border-radius: 3px;
     color: #fff;
     background-color: #6c73fa;
